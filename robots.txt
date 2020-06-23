@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wanghuirs.github.io/sitemap.xml
+Sitemap: https://wanghuirs.github.io/blog/sitemap.xml
